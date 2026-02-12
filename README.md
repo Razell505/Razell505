@@ -16,7 +16,6 @@
 ```lua
 razell.bs@GitHub
 ▔▔▔▔▔▔▔▔
-OS: Windows 10 x64
 Location: Brasil, SP
 Languages: Python
 ```
