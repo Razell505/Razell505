@@ -1,12 +1,12 @@
-# Olá, eu sou o Ruan Santos 👋
+# Olá, eu sou o Ruan Santos 
 
-### 👨‍💻 Enthusiast Developer | Problem Solver | Tech Explorer
+###  Enthusiast Developer | Problem Solver | Tech Explorer
 
 Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Atualmente, foco meu aprendizado 
 
 ---
 
-### 🛠️ Minhas Ferramentas & Tecnologias
+###  Minhas Ferramentas & Tecnologias
 
 **Linguagens & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
