@@ -8,7 +8,7 @@
 <br>
 
 ```zsh
-> neofetch
+> Razell
 ```
 <br>
 
