@@ -3,7 +3,7 @@
 ###  Enthusiast Developer | Problem Solver | Tech Explorer
 
 Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Atualmente, foco meu aprendizado 
-![](https://komarev.com/ghpvc/?username=SEU_USUARIO_AQUI&color=00000000&style=flat)
+![](https://komarev.com/ghpvc/?username=Razell505&color=00000000&style=flat)
 ---
 
 ###  Minhas Ferramentas & Tecnologias
