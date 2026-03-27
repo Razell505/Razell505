@@ -5,8 +5,7 @@
 Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Atualmente, foco meu aprendizado 
 
 ---
-![Visualizações](https://komarev.com/ghpvc/?username=Razell505&color=3776ab&style=for-the-badge)
-###  Minhas Ferramentas & Tecnologias
+<img src="https://komarev.com/ghpvc/?username=Razell505&style=flat-square&color=blueviolet" alt="Visitas no perfil"/>
 
 **Linguagens & Frameworks:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
