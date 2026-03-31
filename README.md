@@ -21,8 +21,8 @@ Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pe
 ### 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Razell505&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razell505&layout=compact&langs_count=7&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Razell505&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=3600" alt="Razell505 GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razell505&layout=compact&langs_count=7&theme=dracula&cache_seconds=3600" alt="Razell505 Top Languages" />
 </p>
 
 ---
