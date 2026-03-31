@@ -19,9 +19,12 @@ Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pe
 ---
 
 ### 📊 Estatísticas do GitHub<p align="left">
- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Razell505&theme=dracula&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="Trophy" />
-</div>
+ 
+ <p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Razell505&show_icons=true&theme=dracula&include_all_commits=true&cache_seconds=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razell505&layout=compact&langs_count=7&theme=dracula&cache_seconds=1" />
+</p>
+
 ### 🔗 Me encontre:
 📧 **ruansantos123br@gmail.com**
 
