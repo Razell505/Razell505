@@ -5,7 +5,8 @@
 Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. **Atualmente, foco meu aprendizado em Python, Node.js e bancos de dados.**
 
 ---
-
+### 🏆 Troféus
+<img src="https://github-profile-trophy.vercel.app/?username=Razell505&theme=radical&no-frame=true"/>
 <img src="https://komarev.com/ghpvc/?username=Razell505&style=flat-square&color=blueviolet" alt="Visitas no perfil"/>
 
 **Linguagens & Frameworks:**
@@ -17,8 +18,6 @@ Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pe
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 Estatísticas do GitHub<p align="left">
 
 ### 📊 GitHub Stats
 <p align="center">
