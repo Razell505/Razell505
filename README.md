@@ -1,10 +1,11 @@
 # Olá, eu sou o Ruan Santos 
 
-###  Enthusiast Developer | Problem Solver | Tech Explorer
+### Enthusiast Developer | Problem Solver | Tech Explorer
 
-Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. Atualmente, foco meu aprendizado 
+Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pessoas. **Atualmente, foco meu aprendizado em Python, Node.js e bancos de dados.**
 
 ---
+
 <img src="https://komarev.com/ghpvc/?username=Razell505&style=flat-square&color=blueviolet" alt="Visitas no perfil"/>
 
 **Linguagens & Frameworks:**
@@ -19,8 +20,6 @@ Sou um desenvolvedor apaixonado por criar soluções que facilitam a vida das pe
 
 ### 📊 Estatísticas do GitHub
 
-Aqui você pode ver o resumo da minha atividade na plataforma:
-
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Razell505&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razell505&layout=compact&langs_count=7&theme=dracula" />
@@ -28,7 +27,7 @@ Aqui você pode ver o resumo da minha atividade na plataforma:
 
 ---
 
-
-- 📫 Como me encontrar:  Ruansantos123br@gmail.com
+### 🔗 Me encontre:
+📧 **ruansantos123br@gmail.com**
 
 ---
